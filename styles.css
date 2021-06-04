@@ -12,6 +12,6 @@ body {
  h2 {
       font-size: 18px;
     }
-ol {
-    counter-increment: letter;
+ol.p {
+     list-style-type: upper-latin;
 }
