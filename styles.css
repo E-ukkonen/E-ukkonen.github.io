@@ -6,7 +6,7 @@ body {
       font-size: 20px;
     }
     p{
-      font-size: 14px;
+      font-size: 12px;
       color: green;
     }           
  h2 {
@@ -19,7 +19,7 @@ ol.p {
      list-style-type: upper-latin;
 }
 div {
-  p.dotted {border-style: dotted;
+  dotted {border-style: dotted;
   border-width: 5px;
   border-color: white;
 }
