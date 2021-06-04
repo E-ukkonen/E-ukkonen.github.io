@@ -12,6 +12,6 @@ body {
  h2 {
       font-size: 18px;
     }
-ol > li{
+ol {
     counter-increment: letter;
 }
