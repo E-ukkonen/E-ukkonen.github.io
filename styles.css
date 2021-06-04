@@ -20,6 +20,6 @@ ol.p {
 }
 p-dotted {
   border-style: dotted;
-  border-width: 5px;
+  border-width: 2px;
   border-color: white;
 }
