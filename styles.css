@@ -12,6 +12,6 @@ body {
  h2 {
       font-size: 18px;
     }
-ol.p {
+ol {
      list-style-type: upper-latin;
 }
