@@ -18,7 +18,7 @@ ul.b {
 ol.p {
      list-style-type: upper-latin;
 }
-div {
+div-1 {
   dotted {border-style: dotted;
   border-width: 5px;
   border-color: white;
