@@ -20,4 +20,5 @@ ol.p {
 }
 div {
   p.dotted {border-style: dotted;}
+  color: white;
 }
