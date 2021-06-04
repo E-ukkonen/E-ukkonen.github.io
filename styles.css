@@ -19,6 +19,7 @@ ol.p {
      list-style-type: upper-latin;
 }
 div {
-  p.dotted {border-style: dotted;}
-  color: white;
+  p.dotted {border-style: dotted;
+  border-width: 5px;
+  border-color: white;
 }
