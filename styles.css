@@ -18,3 +18,6 @@ ul.b {
 ol.p {
      list-style-type: upper-latin;
 }
+div {
+  p.dotted {border-style: dotted;}
+}
